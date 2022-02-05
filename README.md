@@ -7,13 +7,13 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
 
 Download link: https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
 
-LIBRARIES
-pandas
-matplotlib
-seaborn
-scikit-learn
+LIBRARIES : 
+ pandas, 
+ matplotlib,
+ seaborn,
+ scikit-learn
 
-ALGORITHMS
-Logistic Regression
+ALGORITHMS : 
+ Logistic Regression
 
 Best Model Accuracy: 95.00
